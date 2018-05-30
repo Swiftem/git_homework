@@ -1,0 +1,9 @@
+alert('User Story:
+As a: tourist
+I want to: rent a car at a price I can afford
+So that: I can conveniently travel from place to place not being confined to one city or area.
+
+Scenarios:
+-Tourist is willing to pay 
+-Tourist is not willing to pay (prices too high)
+-Tourist willing to pay price but no cars available at that price point')
