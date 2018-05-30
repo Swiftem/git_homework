@@ -7,3 +7,4 @@ Scenarios:
 -Tourist is willing to pay 
 -Tourist is not willing to pay (prices too high)
 -Tourist willing to pay price but no cars available at that price point')
+alert('wazaaaa')
